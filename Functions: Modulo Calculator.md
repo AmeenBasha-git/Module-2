@@ -1,6 +1,6 @@
 # Functions in Python: Modulo Calculator
 
-## NAME : AMEEN BASHA
+## NAME : AMEEN BASHA A
 ## REG NO: 212224220008
 ## 🎯 Aim
 To write a Python program that defines a function which accepts two values and returns their **modulo** using the `%` operator.
